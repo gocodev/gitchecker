@@ -5,3 +5,5 @@ Druga edycja tego pliku
 Trzecia edycja do testu powrotu do starej wersji po dodaniu do indeksu
 
 Czwarta edycja bo plik w commicie miał wyglądać tak!
+
+Kolejna edycja plik! :)
